@@ -35,7 +35,7 @@ session_start(); //start temp session until logout/browser closed
                     <div class="collapse navbar-toggleable-md  float-lg-right" id="mainNavbarCollapse">
                         <ul class="nav navbar-nav">
                             <li class="nav-item"> <a class="nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a> </li>
-                            <li class="nav-item"> <a class="nav-link active" href="store.php">Store<span class="sr-only"></span></a> </li>
+                            <li class="nav-item"> <a class="nav-link active" href="admin/index.php">Admin<span class="sr-only"></span></a> </li>
                             
                            
 							<?php
